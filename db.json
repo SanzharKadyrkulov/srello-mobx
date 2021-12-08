@@ -1,0 +1,55 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    }
+  ],
+  "boards": [
+    {
+      "title": "todo",
+      "items": [],
+      "id": 1
+    },
+    {
+      "title": "doing",
+      "items": [
+        {
+          "id": 1638861308914,
+          "title": "fd"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "done",
+      "items": [
+        {
+          "id": 1638861307382,
+          "title": "buy milk"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
